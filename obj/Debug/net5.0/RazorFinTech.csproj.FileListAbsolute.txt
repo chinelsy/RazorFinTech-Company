@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.exe
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.deps.json
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.runtimeconfig.json
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.runtimeconfig.dev.json
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.dll
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\ref\RazorFinTech.dll
+C:\Users\hp\source\repos\RazorFinTech\bin\Debug\net5.0\RazorFinTech.pdb
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.AssemblyInfo.cs
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.dll
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\ref\RazorFinTech.dll
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.pdb
+C:\Users\hp\source\repos\RazorFinTech\obj\Debug\net5.0\RazorFinTech.genruntimeconfig.cache
